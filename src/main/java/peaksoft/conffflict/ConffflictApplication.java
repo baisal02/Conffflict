@@ -9,7 +9,7 @@ public class ConffflictApplication {
     public static void main(String[] args) {
         SpringApplication.run(ConffflictApplication.class, args);
         System.out.println("conflict");
-        System.out.println("conflictfeature");
+        System.out.println("there is no conflict");
     }
 
 }
